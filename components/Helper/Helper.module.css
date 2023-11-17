@@ -1,0 +1,14 @@
+.helper {
+    margin-top: 40px;
+    width: 300px;
+}
+
+
+li {
+    list-style: none;
+    text-align: left;
+}
+
+span {
+    font-weight: bold;
+}
