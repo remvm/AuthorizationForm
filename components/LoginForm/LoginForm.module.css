@@ -91,3 +91,13 @@ h1 {
     width: 17px;
     height: 17px;
 }
+
+@media screen and (max-width: 600px) {
+    .loginForm, .panel {
+        width: 350px;
+    }
+
+    h1 {
+        font-size: 2.5em;
+    }
+  }
